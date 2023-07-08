@@ -1,0 +1,10 @@
+{
+  "name": "0e48611e-7407-4a71-8f63-6de73e31a30c",
+  "displayName": "webhook1",
+  "genericWebService": {
+    "uri": "https://dkjdfjjdfkfdo.com"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}
